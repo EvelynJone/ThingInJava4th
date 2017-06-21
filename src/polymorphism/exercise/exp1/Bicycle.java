@@ -27,4 +27,8 @@ public class Bicycle extends Cycle {
     public void setSpeed(Speed speed) {
         this.speed = speed;
     }
+
+    public static void main(String[] args) {
+
+    }
 }
